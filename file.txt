@@ -2,3 +2,4 @@ My first line in project
 London is a capital of GB
 Paris is a capital of France
 README
+TravisCI
